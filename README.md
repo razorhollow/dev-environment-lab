@@ -41,7 +41,7 @@ heroku/7.60.2 darwin-x64 node-v14.19.0
 
 ## Git version
 
-git version 2.22.0
+git version 2.36.1
 
 ## Git Default Branch
 
