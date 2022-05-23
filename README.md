@@ -1,6 +1,5 @@
-
 ![lab screen shot](https://i.imgur.com/UqiLqot.png "screenshot")
-# dev-environment-lab
+
 
 ## OS
 
@@ -42,6 +41,10 @@ heroku/7.60.2 darwin-x64 node-v14.19.0
 ## Git version
 
 git version 2.36.1
+
+## Git email
+
+rob@razorhollow.com
 
 ## Git Default Branch
 
@@ -320,8 +323,8 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
 
+plugins=(git zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
